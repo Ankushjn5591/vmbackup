@@ -1,4 +1,4 @@
-provider "registry.terraform.io/hashicorp/azurerm" {
+provider "azurerm" {
   version = "3.56.0"
 }
 
