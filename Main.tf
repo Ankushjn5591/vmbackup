@@ -1,6 +1,3 @@
-provider "azurerm" {
-  version = "3.56.0"
-}
 
 # Define a resource group for the Recovery Services Vault and VM
 data "azurerm_resource_group" "rg1" {
